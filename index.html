@@ -24,7 +24,7 @@
           名前：{{live.name}} <br />
           公演日：{{ convertDate(live.day) }} <br />
           場所： {{ live.place }}<br />
-          <a href="{{live.link}}">リンク</a>
+          <a v-bind:href="live.link">リンク</a>
         </p>
       </div>
     </div>
