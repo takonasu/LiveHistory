@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import './index.css';
 import App from './App';
+import { TopBar } from './components/TopBar';
+import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
 	<React.StrictMode>
+		<TopBar>ライブ参加履歴</TopBar>
 		<App />
 	</React.StrictMode>
 );

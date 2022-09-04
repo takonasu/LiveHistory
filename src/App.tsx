@@ -1,20 +1,28 @@
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import Typography from '@mui/material/Typography';
+import { format } from 'date-fns';
 import React from 'react';
 
-import logo from './logo.svg';
-import './App.css';
+import { liveHistory } from './data/liveHistory';
 
 function App() {
 	return (
 		<div className="App">
-			<header className="App-header">
-				<img src={logo} className="App-logo" alt="logo" />
-				<p>
-					Edit <code>src/App.tsx</code> and save to reload.
-				</p>
-				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-					Learn React
-				</a>
-			</header>
+			{liveHistory.map((live) => {
+				return (
+					<Card variant="outlined" key={live.day}>
+						<CardContent>
+							<Typography>{format(new Date(live.day), 'yyyy年MM月dd日')}</Typography>
+							<Typography>{live.name}</Typography>
+							<Typography>会場：{live.place}</Typography>
+							<Typography>
+								<a href={live.link}>外部リンク</a>
+							</Typography>
+						</CardContent>
+					</Card>
+				);
+			})}
 		</div>
 	);
 }
