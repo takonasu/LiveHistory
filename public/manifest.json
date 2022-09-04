@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ライブ参加履歴",
+  "name": "ライブ参加履歴",
   "icons": [
     {
       "src": "favicon.ico",

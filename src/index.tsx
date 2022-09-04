@@ -1,7 +1,9 @@
+import Stack from '@mui/material/Stack';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 import App from './App';
+import { Footer } from './components/Footer';
 import { TopBar } from './components/TopBar';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
@@ -9,8 +11,11 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
 root.render(
 	<React.StrictMode>
-		<TopBar>ライブ参加履歴</TopBar>
-		<App />
+		<Stack spacing={2}>
+			<TopBar>ライブ参加履歴</TopBar>
+			<App />
+			<Footer />
+		</Stack>
 	</React.StrictMode>
 );
 
