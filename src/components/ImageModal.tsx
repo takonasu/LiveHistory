@@ -14,8 +14,6 @@ const boxStyle = {
 	top: '50%',
 	left: '50%',
 	transform: 'translate(-50%, -50%)',
-	maxWidth: '80%',
-	width: 400,
 	bgcolor: 'background.paper',
 	boxShadow: 24
 };
@@ -30,7 +28,7 @@ export const ImageModal: FC<Props> = ({ imageName, modalOpen, handleClose }) => 
 				aria-describedby="modal-modal-description"
 			>
 				<Box sx={boxStyle}>
-					<img src={`/image/ticket/${imageName}`} style={{ height: '100%', width: '100%' }} />
+					<img src={`/image/ticket/${imageName}`} style={{ maxHeight: '90vh', maxWidth: '90vw' }} />
 				</Box>
 			</Modal>
 		</div>

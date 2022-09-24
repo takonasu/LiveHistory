@@ -158,31 +158,36 @@ export const liveHistory: LiveHistory[] = [
 		day: '2022-06-04T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! 2nd LoveLive! ～What a Wonderful Dream!!～ 大阪公演 with Yuigaoka Girls Band Day1',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_2ndlive/',
-		place: '大阪城ホール'
+		place: '大阪城ホール',
+		ticketImg: 'Liella!_2nd_OsakaDay1.jpg'
 	},
 	{
 		day: '2022-06-05T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! 2nd LoveLive! ～What a Wonderful Dream!!～ 大阪公演 with Yuigaoka Girls Band Day2',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_2ndlive/',
-		place: '大阪城ホール'
+		place: '大阪城ホール',
+		ticketImg: 'Liella!_2nd_OsakaDay2.jpg'
 	},
 	{
 		day: '2022-06-18T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! ライブ＆ファンミーティングツアー ～Welcome to Yuigaoka!!～ 東京公演 Day1 1回目',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_fmt/',
-		place: '東京ガーデンシアター'
+		place: '東京ガーデンシアター',
+		ticketImg: 'Liella!_WelcomeToYuigaoka_TokyoDay1_1.jpg'
 	},
 	{
 		day: '2022-06-25T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ WINDY STAGE Day1",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_6thlive_w.php',
-		place: '東京ドーム'
+		place: '東京ドーム',
+		ticketImg: 'aqours_6th_TokyoDay1.jpg'
 	},
 	{
 		day: '2022-06-26T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ WINDY STAGE Day2",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_6thlive_w.php',
-		place: '東京ドーム'
+		place: '東京ドーム',
+		ticketImg: 'aqours_6th_TokyoDay2.jpg'
 	},
 	{
 		day: '2022-09-10T00:00:00+09:00',
