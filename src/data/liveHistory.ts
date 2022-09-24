@@ -91,7 +91,8 @@ export const liveHistory: LiveHistory[] = [
 		day: '2021-05-08T00:00:00+09:00',
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 3rd Live! School Idol Festival ～夢の始まり～ Day1',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_3rdlive.php',
-		place: 'メットライフドーム'
+		place: 'メットライフドーム',
+		ticketImg: 'niji_3rd_day1.jpg'
 	},
 	{
 		day: '2021-10-10T00:00:00+09:00',

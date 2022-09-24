@@ -6,6 +6,7 @@ import Typography from '@mui/material/Typography';
 import { format } from 'date-fns';
 import React from 'react';
 
+import { ImageModal } from './components/ImageModal';
 import { liveHistory } from './data/liveHistory';
 
 const App = () => {
@@ -16,17 +17,34 @@ const App = () => {
 					<Typography>参加ライブ数：{liveHistory.length}公演</Typography>
 
 					{liveHistory.map((live) => {
+						const [modalOpen, setModalOpen] = React.useState(false);
+						const handleClose = () => {
+							setModalOpen(false);
+						};
 						return (
-							<Card variant="outlined" key={live.day}>
-								<CardContent>
-									<Typography>{format(new Date(live.day), 'yyyy年MM月dd日')}</Typography>
-									<Typography>{live.name}</Typography>
-									<Typography>会場：{live.place}</Typography>
-									<Typography>
-										<a href={live.link}>外部リンク</a>
-									</Typography>
-								</CardContent>
-							</Card>
+							<>
+								{live.ticketImg ? (
+									<ImageModal imageName={live.ticketImg} modalOpen={modalOpen} handleClose={handleClose} />
+								) : null}
+								<Card
+									variant="outlined"
+									key={live.day}
+									onClick={() => {
+										if (live.ticketImg) {
+											setModalOpen(true);
+										}
+									}}
+								>
+									<CardContent>
+										<Typography>{format(new Date(live.day), 'yyyy年MM月dd日')}</Typography>
+										<Typography>{live.name}</Typography>
+										<Typography>会場：{live.place}</Typography>
+										<Typography>
+											<a href={live.link}>外部リンク</a>
+										</Typography>
+									</CardContent>
+								</Card>
+							</>
 						);
 					})}
 				</Stack>
