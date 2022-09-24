@@ -194,5 +194,11 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 5th Live! 虹が咲く場所 Next TOKIMEKI公演 Day2',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_5thlive.php',
 		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
+	},
+	{
+		day: '2022-09-30T00:00:00+09:00',
+		name: '伊達さゆり『BIRTHDAY PARTY 20th ～みんなとなら今日もきっとステキな日～』',
+		link: 'https://apollobay.jp/news/%E3%80%90%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%91%E4%BC%8A%E9%81%94%E3%81%95%E3%82%86%E3%82%8A%E3%80%8Ebirthday-party-20th-%E3%80%9C%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%AA%E3%82%89%E4%BB%8A/',
+		place: 'チームスマイル・豊洲PIT'
 	}
 ];
