@@ -92,13 +92,14 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 3rd Live! School Idol Festival ～夢の始まり～ Day1',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_3rdlive.php',
 		place: 'メットライフドーム',
-		ticketImg: 'niji_3rd_day1.jpg'
+		ticketImg: '20210508_niji_3rd_day1.jpg'
 	},
 	{
 		day: '2021-10-10T00:00:00+09:00',
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 UNIT LIVE & FAN MEETING vol.2 QU4RTZ 〜Sweet Cafe〜 DAY.2',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_unitlive.php',
-		place: '幕張メッセイベントホール'
+		place: '幕張メッセイベントホール',
+		ticketImg: '20211010_QU4RTZ_FM_SC_Day2.jpg'
 	},
 	{
 		day: '2021-10-16T00:00:00+09:00',
@@ -110,19 +111,22 @@ export const liveHistory: LiveHistory[] = [
 		day: '2021-10-17T00:00:00+09:00',
 		name: 'ラブライブ！サンシャイン!! CYaRon！2nd LoveLive! ～大革命☆Wake Up Kingdom～ Day2',
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_unit2021_CYR.php',
-		place: '幕張メッセ 国際展示場'
+		place: '幕張メッセ 国際展示場',
+		ticketImg: '20211017_CYR_2nd_Day2.jpg'
 	},
 	{
 		day: '2021-10-24T00:00:00+09:00',
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 UNIT LIVE & FAN MEETING vol.3 A・ZU・NA 〜The Night Before〜 DAY.2',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_unitlive.php',
-		place: '幕張メッセイベントホール'
+		place: '幕張メッセイベントホール',
+		ticketImg: '20211024_AZUNA_FM_TNB_Day2.jpg'
 	},
 	{
 		day: '2021-10-30T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! First LoveLive! Tour ～Starlines～ 群馬公演 Day1',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_1stlive/',
-		place: 'ベイシア文化ホール 大ホール'
+		place: 'ベイシア文化ホール 大ホール',
+		ticketImg: '20211030_Liella!_1st_GunmaDay1.jpg'
 	},
 	{
 		day: '2021-12-04T00:00:00+09:00',
@@ -134,19 +138,22 @@ export const liveHistory: LiveHistory[] = [
 		day: '2021-12-31T00:00:00+09:00',
 		name: 'LoveLive! Series Presents COUNTDOWN LoveLive! 2021→2022 〜LIVE with a smile!〜',
 		link: 'https://www.lovelive-anime.jp/lovelive-series2021/live.php',
-		place: 'ぴあアリーナMM'
+		place: 'ぴあアリーナMM',
+		ticketImg: '20211231_LiveLive_Countdown_20212022.jpg'
 	},
 	{
 		day: '2022-03-06T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ SUNNY STAGE Day2",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_6thlive.php',
-		place: '埼玉・ベルーナドーム'
+		place: '埼玉・ベルーナドーム',
+		ticketImg: '20220306_aqours_6th_SaitamaDay2.jpg'
 	},
 	{
 		day: '2022-03-13T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! 2nd LoveLive! ～What a Wonderful Dream!!～ 横浜公演 Day2',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_2ndlive/',
-		place: 'ぴあアリーナMM'
+		place: 'ぴあアリーナMM',
+		ticketImg: '20220313_Liella!_2nd_YokohamaDay2.jpg'
 	},
 	{
 		day: '2022-05-28T00:00:00+09:00',
@@ -159,47 +166,49 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！スーパースター!! Liella! 2nd LoveLive! ～What a Wonderful Dream!!～ 大阪公演 with Yuigaoka Girls Band Day1',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_2ndlive/',
 		place: '大阪城ホール',
-		ticketImg: 'Liella!_2nd_OsakaDay1.jpg'
+		ticketImg: '20220604_Liella!_2nd_OsakaDay1.jpg'
 	},
 	{
 		day: '2022-06-05T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! 2nd LoveLive! ～What a Wonderful Dream!!～ 大阪公演 with Yuigaoka Girls Band Day2',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_2ndlive/',
 		place: '大阪城ホール',
-		ticketImg: 'Liella!_2nd_OsakaDay2.jpg'
+		ticketImg: '20220605Liella!_2nd_OsakaDay2.jpg'
 	},
 	{
 		day: '2022-06-18T00:00:00+09:00',
 		name: 'ラブライブ！スーパースター!! Liella! ライブ＆ファンミーティングツアー ～Welcome to Yuigaoka!!～ 東京公演 Day1 1回目',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_fmt/',
 		place: '東京ガーデンシアター',
-		ticketImg: 'Liella!_WelcomeToYuigaoka_TokyoDay1_1.jpg'
+		ticketImg: '20220618_Liella!_WelcomeToYuigaoka_TokyoDay1_1.jpg'
 	},
 	{
 		day: '2022-06-25T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ WINDY STAGE Day1",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_6thlive_w.php',
 		place: '東京ドーム',
-		ticketImg: 'aqours_6th_TokyoDay1.jpg'
+		ticketImg: '20220625_aqours_6th_TokyoDay1.jpg'
 	},
 	{
 		day: '2022-06-26T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours 6th LoveLive! ～KU-RU-KU-RU Rock 'n' Roll TOUR～ WINDY STAGE Day2",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_6thlive_w.php',
 		place: '東京ドーム',
-		ticketImg: 'aqours_6th_TokyoDay2.jpg'
+		ticketImg: '20220626_aqours_6th_TokyoDay2.jpg'
 	},
 	{
 		day: '2022-09-10T00:00:00+09:00',
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 5th Live! 虹が咲く場所 Colorful Dreams! Colorful Smiles!公演 Day1',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_5thlive.php',
-		place: '東京ガーデンシアター'
+		place: '東京ガーデンシアター',
+		ticketImg: '20220910_niji_5th_TokyoGurdenDay1.jpg'
 	},
 	{
 		day: '2022-09-18T00:00:00+09:00',
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 5th Live! 虹が咲く場所 Next TOKIMEKI公演 Day2',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_5thlive.php',
-		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
+		place: '武蔵野の森総合スポーツプラザ メインアリーナ',
+		ticketImg: '20220918_niji_5th_TokyoMusashiDay2.jpg'
 	},
 	{
 		day: '2022-09-30T00:00:00+09:00',
