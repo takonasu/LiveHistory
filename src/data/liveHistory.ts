@@ -215,5 +215,17 @@ export const liveHistory: LiveHistory[] = [
 		name: '伊達さゆり『BIRTHDAY PARTY 20th ～みんなとなら今日もきっとステキな日～』',
 		link: 'https://apollobay.jp/news/%E3%80%90%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%80%91%E4%BC%8A%E9%81%94%E3%81%95%E3%82%86%E3%82%8A%E3%80%8Ebirthday-party-20th-%E3%80%9C%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A8%E3%81%AA%E3%82%89%E4%BB%8A/',
 		place: 'チームスマイル・豊洲PIT'
+	},
+	{
+		day: '2023-02-11T00:00:00+09:00',
+		name: "ラブライブ！サンシャイン!! Aqours EXTRA LoveLive! 2023 ～It’s a 無限大☆WORLD～ Valentine's Day Concert Day.1",
+		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_extra2023.php',
+		place: '武蔵野の森総合スポーツプラザ・メインアリーナ'
+	},
+	{
+		day: '2023-03-12T00:00:00+09:00',
+		name: 'ラブライブ！サンシャイン!! Aqours EXTRA LoveLive! 2023 ～It’s a 無限大☆WORLD～ White Day Concert Day.2',
+		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_extra2023.php',
+		place: '幕張メッセイベントホール'
 	}
 ];
