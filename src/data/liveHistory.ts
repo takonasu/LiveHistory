@@ -217,6 +217,12 @@ export const liveHistory: LiveHistory[] = [
 		place: 'チームスマイル・豊洲PIT'
 	},
 	{
+		day: '2022-12-04T00:00:00+09:00',
+		name: 'ラブライブ！スーパースター!! Liella! 3rd LoveLive! Tour ～WE WILL!!～ 宮城公演 Day.2',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_3rdlive/',
+		place: 'ゼビオアリーナ仙台'
+	},
+	{
 		day: '2023-02-11T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours EXTRA LoveLive! 2023 ～It’s a 無限大☆WORLD～ Valentine's Day Concert Day.1",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_extra2023.php',
