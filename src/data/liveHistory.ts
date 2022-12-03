@@ -229,6 +229,12 @@ export const liveHistory: LiveHistory[] = [
 		place: '東京ガーデンシアター'
 	},
 	{
+		day: '2023-02-04T00:00:00+09:00',
+		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 UNIT LIVE! ～A・ZU・NA LAGOON～ Day1',
+		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_unitlive2023.php',
+		place: '東京ガーデンシアター'
+	},
+	{
 		day: '2023-02-11T00:00:00+09:00',
 		name: "ラブライブ！サンシャイン!! Aqours EXTRA LoveLive! 2023 ～It’s a 無限大☆WORLD～ Valentine's Day Concert Day.1",
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_extra2023.php',
