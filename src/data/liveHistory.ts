@@ -223,10 +223,22 @@ export const liveHistory: LiveHistory[] = [
 		place: 'ゼビオアリーナ仙台'
 	},
 	{
+		day: '2022-12-11T00:00:00+09:00',
+		name: 'marasy piano live tour 2022-2023',
+		link: 'https://ch.nicovideo.jp/marasy/blomaga/ar2116964',
+		place: '立川ステージガーデン'
+	},
+	{
 		day: '2023-01-15T00:00:00+09:00',
 		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 UNIT LIVE! ～R3BIRTH R3VOLUTION～ Day2',
 		link: 'https://www.lovelive-anime.jp/nijigasaki/sp_unitlive2023.php',
 		place: '東京ガーデンシアター'
+	},
+	{
+		day: '2023-01-29T00:00:00+09:00',
+		name: 'ラブライブ！スーパースター!! Liella! 3rd LoveLive! Tour ～WE WILL!!～ 東京公演 Day.2',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/sp_3rdlive/',
+		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
 	},
 	{
 		day: '2023-02-04T00:00:00+09:00',
