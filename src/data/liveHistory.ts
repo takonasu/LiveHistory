@@ -132,7 +132,7 @@ export const liveHistory: LiveHistory[] = [
 		day: '2021-12-04T00:00:00+09:00',
 		name: '鬼頭明里 2nd LIVE「MIRRORS」',
 		link: 'https://kitoakari-fc.com/special/ticket_2ndlive_1',
-		place: 'パシフィコ横浜 国⽴⼤ホール'
+		place: 'パシフィコ横浜 国立大ホール'
 	},
 	{
 		day: '2021-12-31T00:00:00+09:00',
@@ -257,5 +257,11 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！サンシャイン!! Aqours EXTRA LoveLive! 2023 ～It’s a 無限大☆WORLD～ White Day Concert Day.2',
 		link: 'https://www.lovelive-anime.jp/uranohoshi/sp_extra2023.php',
 		place: '幕張メッセイベントホール'
+	},
+	{
+		day: '2023-06-04T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ OPENING LIVE EVENT～Bloom the Dream～',
+		link: 'https://www.lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=OLE',
+		place: 'パシフィコ横浜 国立大ホール'
 	}
 ];
