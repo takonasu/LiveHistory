@@ -260,7 +260,7 @@ export const liveHistory: LiveHistory[] = [
 	},
 	{
 		day: '2023-06-04T00:00:00+09:00',
-		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ OPENING LIVE EVENT～Bloom the Dream～',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ OPENING LIVE EVENT～Bloom the Dream～ 昼公演',
 		link: 'https://www.lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=OLE',
 		place: 'パシフィコ横浜 国立大ホール'
 	}
