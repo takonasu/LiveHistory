@@ -263,5 +263,23 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ OPENING LIVE EVENT～Bloom the Dream～ 昼公演',
 		link: 'https://www.lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=OLE',
 		place: 'パシフィコ横浜 国立大ホール'
+	},
+	{
+		day: '2023-08-06T00:00:00+09:00',
+		name: 'スクールアイドルミュージカル',
+		link: 'https://www.lovelive-anime.jp/special/musical/2023/',
+		place: '日本青年館ホール'
+	},
+	{
+		day: '2023-08-19T00:00:00+09:00',
+		name: 'ラブライブ！スーパースター!! Liella! 4th LoveLive! Tour ～brand new Sparkle～ 千葉公演＜KALEIDOSCORE edition＞ Day1',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=4thlive',
+		place: '幕張メッセ国際展示場 展示ホール9〜11'
+	},
+	{
+		day: '2023-09-10T00:00:00+09:00',
+		name: 'ラブライブ！スーパースター!! Liella! 4th LoveLive! Tour ～brand new Sparkle～ 東京公演＜5yncri5e! edition＞ Day2',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=4thlive',
+		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
 	}
 ];
