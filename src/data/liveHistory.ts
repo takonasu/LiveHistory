@@ -281,5 +281,35 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！スーパースター!! Liella! 4th LoveLive! Tour ～brand new Sparkle～ 東京公演＜5yncri5e! edition＞ Day2',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=4thlive',
 		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
+	},
+	{
+		day: '2023-11-19T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN！CAN！FUN！～ 東京公演 Day2',
+		link: 'https://www.lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=RCF',
+		place: '東京・武蔵野の森総合スポーツプラザ メインアリーナ'
+	},
+	{
+		day: '2023-12-09T00:00:00+09:00',
+		name: '異次元フェス アイドルマスター★♥︎ラブライブ！歌合戦 Day1',
+		link: 'https://ijigen-fes.jp/utagassen/',
+		place: '東京ドーム'
+	},
+	{
+		day: '2023-12-10T00:00:00+09:00',
+		name: '異次元フェス アイドルマスター★♥︎ラブライブ！歌合戦 Day2',
+		link: 'https://ijigen-fes.jp/utagassen/',
+		place: '東京ドーム'
+	},
+	{
+		day: '2024-01-14T00:00:00+09:00',
+		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 6th Live! I love You ⇆ You love Me 神奈川公演 Day2',
+		link: 'https://www.lovelive-anime.jp/nijigasaki/live/live_detail.php?p=sp_6thlive',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2024-02-10T00:00:00+09:00',
+		name: 'ラブライブ！スーパースター!! Liella! 5th LoveLive! ～Twinkle Triangle～ 東京公演 Day1',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=5thlive',
+		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
 	}
 ];
