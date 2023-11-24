@@ -283,8 +283,8 @@ export const liveHistory: LiveHistory[] = [
 		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
 	},
 	{
-		day: '2023-11-19T00:00:00+09:00',
-		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN！CAN！FUN！～ 東京公演 Day2',
+		day: '2023-11-18T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 1st Live Tour ～RUN！CAN！FUN！～ 東京公演 Day1',
 		link: 'https://www.lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=RCF',
 		place: '東京・武蔵野の森総合スポーツプラザ メインアリーナ'
 	},
