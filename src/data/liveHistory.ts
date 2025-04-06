@@ -311,5 +311,95 @@ export const liveHistory: LiveHistory[] = [
 		name: 'ラブライブ！スーパースター!! Liella! 5th LoveLive! ～Twinkle Triangle～ 東京公演 Day1',
 		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=5thlive',
 		place: '武蔵野の森総合スポーツプラザ メインアリーナ'
+	},
+	{
+		day: '2024-03-09T00:00:00+09:00',
+		name: 'LoveLive! Series Presents ユニット甲子園 2024 Day1',
+		link: 'https://lovelive-anime.jp/special/live/live_detail.php?p=unitlive2024',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2024-03-30T00:00:00+09:00',
+		name: 'TVアニメ放送10周年記念 LoveLive! Orchestra Concert Day.1',
+		link: 'https://lovelive-anime.jp/otonokizaka/event/10thanniversary/',
+		place: 'パシフィコ横浜 国立大ホール'
+	},
+	{
+		day: '2024-04-20T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 2nd Live Tour 〜Blooming with ○○○〜 Day.1',
+		link: 'https://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=BLW',
+		place: '幕張メッセ 国際展示場 1～3ホール'
+	},
+	{
+		day: '2024-08-04T00:00:00+09:00',
+		name: 'ラブライブ！スーパースター!! Liella! ユニットライブ＆ファンミーティングツアー 心・技・体！極上大冒険!! 最終章ー神奈川公演 Day2',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=unitlive',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2024-10-19T00:00:00+09:00',
+		name: 'ラブライブ！虹ヶ咲学園スクールアイドル同好会 7th Live! NEW TOKIMEKI LAND Day.1',
+		link: 'https://lovelive-anime.jp/nijigasaki/live/live_detail.php?p=sp_7thlive',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2024-10-28T00:00:00+09:00',
+		name: 'TVアニメ『ラブライブ！スーパースター!!』3期OP＆ED主題歌リリースイベント 2回目',
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=tv3oped',
+		place: 'ソニックシティ　大ホール'
+	},
+	{
+		day: '2024-12-22T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ Live & Fan Meeting TRY TRY UNITY!!! Day.2',
+		link: 'https://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=TTY',
+		place: '東京・両国国技館'
+	},
+	{
+		day: '2025-01-10T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 3rd Live Tour TRI TRI UNITY!!! Day.1',
+		link: 'https://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=TTU',
+		place: '神奈川・横浜アリーナ'
+	},
+	{
+		day: '2025-02-01T00:00:00+09:00',
+		name: 'LoveLive! Series Asia Tour 2024 ～みんなで叶える物語 ～ 横浜公演 Day.1',
+		link: 'https://lovelive-anime.jp/special/live/live_detail.php?p=asiatour_2024',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2025-02-02T00:00:00+09:00',
+		name: 'LoveLive! Series Asia Tour 2024 ～みんなで叶える物語 ～ 横浜公演 Day.2',
+		link: 'https://lovelive-anime.jp/special/live/live_detail.php?p=asiatour_2024',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2025-03-08T00:00:00+09:00',
+		name: "ラブライブ！スーパースター!! Liella! 6th LoveLive! Tour ～Let's be ONE～ 東京公演 Day.1",
+		link: 'https://www.lovelive-anime.jp/yuigaoka/live/live_detail.php?p=6thlive',
+		place: '国立代々木競技場　第一体育館'
+	},
+	{
+		day: '2025-04-27T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 4th Live Dream ～Bloom, The Dream Believers～ 石川公演 Day.1',
+		link: 'https://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=BTDB',
+		place: '石川・石川県産業展示館（4号館）'
+	},
+	{
+		day: '2025-06-07T00:00:00+09:00',
+		name: 'ラブライブ！蓮ノ空女学院スクールアイドルクラブ 4th Live Dream ～Bloom, The Dream Believers～ 102期卒業公演 Day.1',
+		link: 'https://lovelive-anime.jp/hasunosora/live-event/live_detail.php?p=BTDB',
+		place: 'Ｋアリーナ横浜'
+	},
+	{
+		day: '2025-06-08T00:00:00+09:00',
+		name: 'ラブライブ！サンシャイン!! Aqours Finale LoveLive! ～永久stage～ Day.1',
+		link: 'https://www.lovelive-anime.jp/uranohoshi/live/live_detail.php?p=Aqours_Finale',
+		place: 'ベルーナドーム'
+	},
+	{
+		day: '2025-06-07T00:00:00+09:00',
+		name: 'ラブライブ！サンシャイン!! Aqours Finale LoveLive! ～永久stage～ Day.2',
+		link: 'https://www.lovelive-anime.jp/uranohoshi/live/live_detail.php?p=Aqours_Finale',
+		place: 'ベルーナドーム'
 	}
 ];

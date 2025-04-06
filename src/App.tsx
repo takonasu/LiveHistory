@@ -4,6 +4,7 @@ import Container from '@mui/material/Container';
 import Stack from '@mui/material/Stack';
 import Typography from '@mui/material/Typography';
 import { format } from 'date-fns';
+import { ja } from 'date-fns/locale';
 import React from 'react';
 
 import { ImageModal } from './components/ImageModal';
@@ -38,7 +39,7 @@ const App = () => {
 										}}
 									>
 										<CardContent>
-											<Typography>{format(new Date(live.day), 'yyyy年MM月dd日')}</Typography>
+											<Typography>{format(new Date(live.day), 'yyyy年MM月dd日(E)', { locale: ja })}</Typography>
 											<Typography>{live.name}</Typography>
 											<Typography>会場：{live.place}</Typography>
 											<Typography>
